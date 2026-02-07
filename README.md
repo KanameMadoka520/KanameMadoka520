@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; box-shadow: 0px 4px 20px 0px rgba(247, 120, 186, 0.2);"/>
+  <img src="./cover.png" width="600" style="border-radius: 15px; box-shadow: 0px 4px 20px 0px rgba(247, 120, 186, 0.2);"/>
 </div>
 
 <br/>
