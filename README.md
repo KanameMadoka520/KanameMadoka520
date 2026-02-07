@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffeef5,ffa6c9,f778ba,ffeef5&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=f778ba&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=ffa6c9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,ffeef5,f778ba,ffffff&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=f778ba&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=ffa6c9" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0ZGVlODQ5OTY4MzM4ODQ5OTY4MzM4ODQ5OTY4MzM4ODQ5OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PhyH8lP4O9q92/giphy.gif" width="600" style="border-radius: 15px; box-shadow: 0px 0px 20px 5px rgba(247, 120, 186, 0.4);"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; box-shadow: 0px 4px 20px 0px rgba(247, 120, 186, 0.2);"/>
 </div>
 
 <br/>
@@ -28,17 +28,17 @@
   <table style="border: none;">
     <tr>
       <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KanameMadoka520&show_icons=true&hide_border=true&bg_color=ffeef5&title_color=f778ba&icon_color=ffa6c9&text_color=bf80a0" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KanameMadoka520&show_icons=true&hide_border=false&bg_color=ffffff&border_color=ffeef5&title_color=f778ba&icon_color=ffa6c9&text_color=5c5c5c&rank_icon=github" width="100%" />
       </td>
       <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanameMadoka520&layout=compact&hide_border=true&bg_color=ffeef5&title_color=f778ba&text_color=bf80a0&langs_count=6" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanameMadoka520&layout=compact&hide_border=false&bg_color=ffffff&border_color=ffeef5&title_color=f778ba&text_color=5c5c5c&langs_count=6" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&hide_border=true&background=ffeef5&ring=f778ba&fire=f778ba&currStreakNum=bf80a0&currStreakLabel=f778ba&sideNums=bf80a0&sideLabels=f778ba&dates=bf80a0" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&hide_border=false&background=ffffff&border=ffeef5&ring=f778ba&fire=f778ba&currStreakNum=5c5c5c&currStreakLabel=f778ba&sideNums=5c5c5c&sideLabels=f778ba&dates=bf80a0" width="100%" />
 </div>
 
 <br/>
@@ -50,5 +50,5 @@
 <br/>
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffeef5,f778ba,ffa6c9,ffeef5&height=100&section=footer&fontSize=0" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,f778ba,ffeef5,ffffff&height=100&section=footer&fontSize=0" width="100%"/>
 </div>
