@@ -1,34 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KanameMadoka520&fontSize=80&fontAlign=50&fontColor=ffffff&desc=System.out.println(%22Entropy%20Exceeded%22)&descAlign=50&descSize=20&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffeef5,ffa6c9,f778ba,ffeef5&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=f778ba&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=ffa6c9" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0ZGVlODQ5OTY4MzM4ODQ5OTY4MzM4ODQ5OTY4MzM4ODQ5OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PhyH8lP4O9q92/giphy.gif" width="600" style="border-radius: 15px; box-shadow: 0px 0px 20px 5px rgba(247, 120, 186, 0.5);"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KanameMadoka520&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F778BA&background=00000000&center=true&vCenter=true&width=500&lines=Owner+of+TCYMC+Server;Warrior+of+Light+(Eorzea);Hardware+Enthusiast;Bringing+the+Future+to+Reality;Rewriting+the+Timeline..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanameMadoka520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&theme=tokyonight&hide_border=true&background=00000000" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanameMadoka520&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="140" />
+  <img src="https://media.giphy.com/media/PiuNsbdJ91uNy/giphy.gif" width="600" style="border-radius: 15px; box-shadow: 0px 0px 20px 5px rgba(247, 120, 186, 0.4);"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanameMadoka520&theme=tokyonight&utcOffset=8" />
+  <table style="border: none;">
+    <tr>
+      <td valign="top" width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=KanameMadoka520&show_icons=true&hide_border=true&count_private=true&bg_color=ffeef5&title_color=f778ba&icon_color=ffa6c9&text_color=bf80a0" width="100%" />
+      </td>
+      <td valign="top" width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanameMadoka520&layout=compact&hide_border=true&bg_color=ffeef5&title_color=f778ba&text_color=bf80a0&langs_count=6" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -40,5 +38,5 @@
 <br/>
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=0" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffeef5,f778ba,ffa6c9,ffeef5&height=100&section=footer&fontSize=0" width="100%"/>
 </div>
