@@ -16,26 +16,10 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KanameMadoka520&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KanameMadoka520)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=KanameMadoka520&show_icons=true&hide_border=false&bg_color=ffffff&border_color=ffeef5&title_color=f778ba&icon_color=ffa6c9&text_color=5c5c5c&rank_icon=github" width="100%" />
-      </td>
-      <td valign="top" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanameMadoka520&layout=compact&hide_border=false&bg_color=ffffff&border_color=ffeef5&title_color=f778ba&text_color=5c5c5c&langs_count=6" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&hide_border=false&background=ffffff&border=ffeef5&ring=f778ba&fire=f778ba&currStreakNum=5c5c5c&currStreakLabel=f778ba&sideNums=5c5c5c&sideLabels=f778ba&dates=bf80a0" width="100%" />
