@@ -54,18 +54,22 @@
 * [NekoAI 配套 GUI 管理器](https://github.com/KanameMadoka520/NekoAI-GUI-Manager)
 * [截图入典小插件](https://github.com/KanameMadoka520/koishi-plugin-mememaker-qwen)
 
-#### 浏览器油猴脚本：
-* [Gemini 网页版导航悬浮组件-扫描历史、快速跳转话题](https://github.com/KanameMadoka520/Gemini-Conversation-Navigator)
-* [Gemini 网页版防卡顿](https://github.com/KanameMadoka520/Gemini-Code-Block-Anti-Lag)
+
+#### 魔改自知名开源项目的独立分支：
+* [Wallos-Remastered 版（更多功能/更高自定义/更优雅的页面动画）](https://github.com/KanameMadoka520/Wallos-Remastered)
+* [Uptime-Kuma 魔改版（人性化/自定义大增强）](https://github.com/KanameMadoka520/uptime-kuma-remastered)
+* [Komari-Cloudflared（Cloudflare Tunnel完全支持）](https://github.com/KanameMadoka520/komari-cloudflared)
+
 
 #### Minecraft 服务器相关：
 * [TCY-Client-Updater 一键客户端更新器](https://github.com/KanameMadoka520/TCY-Client-Updater)
 （和Client Updater配套的，还在开发中）* [TCYPublishManager 一键化版本更新流程工具](https://github.com/KanameMadoka520/TCYPublishManager)
 
-#### 魔改自知名开源项目的独立分支：
-* [Wallos-Remastered 版（更多功能/更高自定义/更酷）](https://github.com/KanameMadoka520/Wallos-Remastered)
-* [Uptime-Kuma 魔改版（人性化与自定义程度增强）](https://github.com/KanameMadoka520/uptime-kuma-remastered)
-* [Komari-Cloudflared（增加 Cloudflare Tunnel 支持）](https://github.com/KanameMadoka520/komari-cloudflared)
+
+#### 浏览器油猴脚本：
+* [Gemini 网页版导航悬浮组件-扫描历史、快速跳转话题](https://github.com/KanameMadoka520/Gemini-Conversation-Navigator)
+* [Gemini 网页版防卡顿](https://github.com/KanameMadoka520/Gemini-Code-Block-Anti-Lag)
+
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,f778ba,ffeef5,ffffff&height=100&section=footer&fontSize=0" width="100%"/>
