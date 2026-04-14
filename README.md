@@ -46,9 +46,6 @@
 </div>
 
 <br/>
-
-没问题，已经帮你把所有的链接都整理成了标准的 Markdown 格式 `[标题](链接)`，这样看起来会整洁很多：
-
 ---
 #### Koishi QQ 机器人用插件：
 * [酒狐日常（YSM 的酒狐人设）](https://github.com/KanameMadoka520/WineFox-Daily)
