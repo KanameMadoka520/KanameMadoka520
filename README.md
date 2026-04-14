@@ -50,7 +50,6 @@
 没问题，已经帮你把所有的链接都整理成了标准的 Markdown 格式 `[标题](链接)`，这样看起来会整洁很多：
 
 ---
-
 #### Koishi QQ 机器人用插件：
 * [酒狐日常（YSM 的酒狐人设）](https://github.com/KanameMadoka520/WineFox-Daily)
 * [NekoAI 机器人插件（支持多种 AI 接口模型，xAI web search，xAI 生图等）](https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI)
@@ -58,7 +57,7 @@
 * [截图入典小插件](https://github.com/KanameMadoka520/koishi-plugin-mememaker-qwen)
 
 #### 浏览器油猴脚本：
-* [Gemini 网页版扫描历史、快速跳转话题](https://github.com/KanameMadoka520/Gemini-Conversation-Navigator)
+* [Gemini 网页版导航悬浮组件-扫描历史、快速跳转话题](https://github.com/KanameMadoka520/Gemini-Conversation-Navigator)
 * [Gemini 网页版防卡顿](https://github.com/KanameMadoka520/Gemini-Code-Block-Anti-Lag)
 
 #### Minecraft 服务器相关：
@@ -66,8 +65,8 @@
 （和Client Updater配套的，还在开发中）* [TCYPublishManager 一键化版本更新流程工具](https://github.com/KanameMadoka520/TCYPublishManager)
 
 #### 魔改自知名开源项目的独立分支：
-* [Wallos-Remastered 版（更多功能/更高自定义）](https://github.com/KanameMadoka520/Wallos-Remastered)
-* [Uptime-Kuma 魔改版（人性化与自定义增强）](https://github.com/KanameMadoka520/uptime-kuma-remastered)
+* [Wallos-Remastered 版（更多功能/更高自定义/更酷）](https://github.com/KanameMadoka520/Wallos-Remastered)
+* [Uptime-Kuma 魔改版（人性化与自定义程度增强）](https://github.com/KanameMadoka520/uptime-kuma-remastered)
 * [Komari-Cloudflared（增加 Cloudflare Tunnel 支持）](https://github.com/KanameMadoka520/komari-cloudflared)
 
 <div align="center">
