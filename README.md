@@ -47,9 +47,8 @@
 
 <br/>
 
-## Koishi相关插件：
-### 酒狐日常（YSM的酒狐人设）
-https://github.com/KanameMadoka520/WineFox-Daily
+## Koishi qq机器人用插件：
+[酒狐日常（YSM的酒狐人设）](https://github.com/KanameMadoka520/WineFox-Daily)
 ### NekoAI机器人插件（支持多种AI接口模型，xAI web search，xAI生图，权限管理，智能路由等）
 https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI
 #### ==NekoAI配套GUI管理器https://github.com/KanameMadoka520/NekoAI-GUI-Manager
