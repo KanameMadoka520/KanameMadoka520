@@ -47,33 +47,28 @@
 
 <br/>
 
-## Koishi qq机器人用插件：
-[酒狐日常（YSM的酒狐人设）](https://github.com/KanameMadoka520/WineFox-Daily)
-### NekoAI机器人插件（支持多种AI接口模型，xAI web search，xAI生图，权限管理，智能路由等）
-https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI
-#### ==NekoAI配套GUI管理器https://github.com/KanameMadoka520/NekoAI-GUI-Manager
-### 截图入典小插件
-https://github.com/KanameMadoka520/koishi-plugin-mememaker-qwen
+没问题，已经帮你把所有的链接都整理成了标准的 Markdown 格式 `[标题](链接)`，这样看起来会整洁很多：
 
-## 浏览器油猴脚本：
-### Gemini网页版扫描历史、快速跳转话题
-https://github.com/KanameMadoka520/Gemini-Conversation-Navigator
-### Gemini网页版防卡顿
-https://github.com/KanameMadoka520/Gemini-Code-Block-Anti-Lag
+---
 
-## Minecraft服务器相关：
-### 一键为玩家更新客户端的更新器（还有更多功能）
-https://github.com/KanameMadoka520/TCY-Client-Updater
-#### 配套开发中的一键化版本更新流程工具（mc服主用）
-https://github.com/KanameMadoka520/TCYPublishManager
+#### Koishi QQ 机器人用插件：
+* [酒狐日常（YSM 的酒狐人设）](https://github.com/KanameMadoka520/WineFox-Daily)
+* [NekoAI 机器人插件（支持多种 AI 接口模型，xAI web search，xAI 生图等）](https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI)
+* [NekoAI 配套 GUI 管理器](https://github.com/KanameMadoka520/NekoAI-GUI-Manager)
+* [截图入典小插件](https://github.com/KanameMadoka520/koishi-plugin-mememaker-qwen)
 
-## 魔改自知名开源项目的独立分支：
-### 更多功能/更高自定义/更酷的Wallos-Remastered版
-https://github.com/KanameMadoka520/Wallos-Remastered
-### 魔改版Uptime-Kuma，一系列人性化增强和自定义程度增强
-https://github.com/KanameMadoka520/uptime-kuma-remastered
-### 为Komari增加Cloudflare Tunnel支持
-https://github.com/KanameMadoka520/komari-cloudflared
+#### 浏览器油猴脚本：
+* [Gemini 网页版扫描历史、快速跳转话题](https://github.com/KanameMadoka520/Gemini-Conversation-Navigator)
+* [Gemini 网页版防卡顿](https://github.com/KanameMadoka520/Gemini-Code-Block-Anti-Lag)
+
+#### Minecraft 服务器相关：
+* [TCY-Client-Updater 一键客户端更新器](https://github.com/KanameMadoka520/TCY-Client-Updater)
+* [TCYPublishManager 一键化版本更新流程工具](https://github.com/KanameMadoka520/TCYPublishManager)
+
+#### 魔改自知名开源项目的独立分支：
+* [Wallos-Remastered 版（更多功能/更高自定义）](https://github.com/KanameMadoka520/Wallos-Remastered)
+* [Uptime-Kuma 魔改版（人性化与自定义增强）](https://github.com/KanameMadoka520/uptime-kuma-remastered)
+* [Komari-Cloudflared（增加 Cloudflare Tunnel 支持）](https://github.com/KanameMadoka520/komari-cloudflared)
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,f778ba,ffeef5,ffffff&height=100&section=footer&fontSize=0" width="100%"/>
