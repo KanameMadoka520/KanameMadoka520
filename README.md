@@ -63,7 +63,7 @@
 
 #### Minecraft 服务器相关：
 * [TCY-Client-Updater 一键客户端更新器](https://github.com/KanameMadoka520/TCY-Client-Updater)
-* [TCYPublishManager 一键化版本更新流程工具](https://github.com/KanameMadoka520/TCYPublishManager)
+（和Client Updater配套的，还在开发中）* [TCYPublishManager 一键化版本更新流程工具](https://github.com/KanameMadoka520/TCYPublishManager)
 
 #### 魔改自知名开源项目的独立分支：
 * [Wallos-Remastered 版（更多功能/更高自定义）](https://github.com/KanameMadoka520/Wallos-Remastered)
