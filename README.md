@@ -2,7 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,ffeef5,f778ba,ffffff&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=f778ba&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=ffa6c9" width="100%"/>
 </div>
 
-一名归来之人
+<div align="center">
+  <table width="800">
+    <tr>
+      <td align="center" style="border: none;">
+        <p align="center">
+          <i style="color: #747d8c; font-size: 1.1em;">“ 从梦境中归来的幽灵 ”</i><br/>
+          <b style="color: #F778BA; font-size: 1.2em;">在修习的过程中，试图将那些隐于夜色里的奇思，悉数带回现实世界。</b>
+        </p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
