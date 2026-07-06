@@ -2,15 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,ffeef5,f778ba,ffffff&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=f778ba&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=ffa6c9" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><br/>
-  <span>✦ <b>梦 境 归 来 之 人</b> ✦</span><br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" /><br/>
+  
   <br/>
-  <code style="color: #F778BA;">Reality.load( Dreams.getIdeas() );</code><br/>
+  <span style="font-size: 1.2em; color: #00bcd4;">✦ <b>梦 境 归 来 之 人</b> ✦</span><br/>
+  
   <br/>
-  <span>试图将那些隐于夜色里的奇思，悉数带回现实</span><br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+  <code style="color: #00bcd4; background-color: #f0fdfe; padding: 5px 10px; border-radius: 5px;">Reality.load( Dreams.getIdeas() );</code><br/>
+  
+  <br/>
+  <p align="center" style="max-width: 600px; line-height: 1.6; color: #5c5c5c;">
+    试图将梦境里苏醒的奇思妙想，一步步淬炼为现实的锚点。<br/>
+    予世界以新的色彩。
+  </p>
+  
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" /><br/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
