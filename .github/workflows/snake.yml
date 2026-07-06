@@ -2,27 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     # 这一步是关键！赋予脚本写入仓库的权限
-    permissions: 
+    permissions:
       contents: write
-    
+
     steps:
       - uses: actions/checkout@v3
-      
+
       - uses: Platane/snk@v3
         with:
           github_user_name: KanameMadoka520
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=#f778ba&color_dots=#ffeef5,#ffa6c9,#f778ba,#bf5aa0,#7957d5
-            
+            dist/github-contribution-grid-snake.svg?color_snake=#4a9fd4&color_dots=#eaf6fb,#a8d8ea,#7ec5e8,#4a9fd4,#3a7ca5
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
