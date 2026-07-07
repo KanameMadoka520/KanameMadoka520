@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&hide_border=false&background=ffffff&border=dceef7&ring=5eb3d6&fire=4a9fd4&currStreakNum=5c7080&currStreakLabel=4a9fd4&sideNums=5c7080&sideLabels=4a9fd4&dates=9bc4dd" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanameMadoka520&hide_border=false&background=ffffff&border=dceef7&ring=5eb3d6&fire=4a9fd4&currStreakNum=5c7080&currStreakLabel=4a9fd4&sideNums=5c7080&sideLabels=4a9fd4&dates=9bc4dd" width="500" />
 </div>
 
 <br/>
