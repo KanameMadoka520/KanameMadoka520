@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&pause=99999&color=4A9FD4&center=true&vCenter=true&repeat=false&width=620&height=72&lines=KanameMadoka520" alt="KanameMadoka520" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=99999&color=7EC5E8&center=true&vCenter=true&repeat=false&width=620&height=34&lines=We%20turn%20the%20future%27s%20future%20into%20reality" alt="We turn the future's future into reality" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:a8d8ea,100:ffffff&height=140&section=header&fontSize=0" width="100%"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:a8d8ea,100:ffffff&height=90&section=footer&fontSize=0" width="100%"/>
 </div>
 
 <table align="center">
