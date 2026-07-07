@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:a8d8ea,100:ffffff&height=240&section=header&text=KanameMadoka520&fontSize=70&fontAlign=50&fontColor=4a9fd4&desc=We%20turn%20the%20future's%20future%20into%20reality&descAlign=50&descSize=20&animation=twinkling&descColor=7ec5e8" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&pause=99999&color=4A9FD4&center=true&vCenter=true&repeat=false&width=620&height=72&lines=KanameMadoka520" alt="KanameMadoka520" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=99999&color=7EC5E8&center=true&vCenter=true&repeat=false&width=620&height=34&lines=We%20turn%20the%20future%27s%20future%20into%20reality" alt="We turn the future's future into reality" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:a8d8ea,100:ffffff&height=90&section=footer&fontSize=0" width="100%"/>
 </div>
 
 <table align="center">
@@ -36,11 +36,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KanameMadoka520/KanameMadoka520/output/isometric-calendar.svg" alt="Magic City" width="100%"/>
+  <img src="https://raw.githubusercontent.com/KanameMadoka520/KanameMadoka520/output/isometric-calendar.svg" alt="Magic City" width="680"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KanameMadoka520/KanameMadoka520/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/KanameMadoka520/KanameMadoka520/output/github-contribution-grid-snake.svg" alt="snake animation" width="680"/>
 </div>
 
 <br/>
@@ -49,35 +49,35 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 </div>
 
-<table align="center">
+<table align="center" width="760" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌊 最近新开的开源项目</h4>
+      <b>🌊 最近新开的开源项目</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/OpenWire">OpenWire —— 开源免费的网络监测与防火墙，UI 借鉴 GlassWire 制成</a></li>
+        <li><a href="https://github.com/KanameMadoka520/OpenWire">OpenWire</a> —— 开源免费的网络监测与防火墙，UI 借鉴 GlassWire</li>
       </ul>
-      <h4>🔧 魔改自知名开源项目的独立分支</h4>
+      <b>🔧 魔改自知名开源项目的独立分支</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/Misskey-X">Misskey-X —— 改造为个人 MC 小社区使用的版本</a></li>
-        <li><a href="https://github.com/KanameMadoka520/Wallos-Remastered">Wallos-Remastered —— 更多功能 / 更高自定义 / 更优雅的动画</a></li>
-        <li><a href="https://github.com/KanameMadoka520/uptime-kuma-remastered">Uptime-Kuma 魔改版 —— 人性化 / 自定义大增强</a></li>
-        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared —— Cloudflare Tunnel 完全支持</a></li>
+        <li><a href="https://github.com/KanameMadoka520/Misskey-X">Misskey-X</a> —— 个人 MC 小社区版</li>
+        <li><a href="https://github.com/KanameMadoka520/Wallos-Remastered">Wallos-Remastered</a> —— 更多功能 / 更优雅动画</li>
+        <li><a href="https://github.com/KanameMadoka520/uptime-kuma-remastered">Uptime-Kuma 魔改版</a> —— 人性化增强</li>
+        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared</a> —— Cloudflare Tunnel 支持</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌙 暂无开源计划但在进展的神秘项目</h4>
+      <b>🌙 暂无开源计划但在进展的神秘项目</b>
       <ul>
         <li>bulai　·　matgo　·　yurri　·　JusticeAI</li>
       </ul>
-      <h4>⛏️ Minecraft 服务器相关</h4>
+      <b>⛏️ Minecraft 服务器相关</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/TCY-Client-Updater">TCY-Client-Updater —— 一键客户端更新器</a></li>
-        <li><a href="https://github.com/KanameMadoka520/TCYPublishManager">TCYPublishManager —— 一键化版本更新流程工具（开发中）</a></li>
+        <li><a href="https://github.com/KanameMadoka520/TCY-Client-Updater">TCY-Client-Updater</a> —— 一键客户端更新器</li>
+        <li><a href="https://github.com/KanameMadoka520/TCYPublishManager">TCYPublishManager</a> —— 版本更新流程工具（开发中）</li>
       </ul>
-      <h4>🤖 Koishi QQ 机器人用插件</h4>
+      <b>🤖 Koishi QQ 机器人用插件</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/WineFox-Daily">酒狐日常（YSM 的酒狐人设）</a></li>
-        <li><a href="https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI">NekoAI 插件 —— 多种 AI 接口 / xAI web search / xAI 生图</a></li>
+        <li><a href="https://github.com/KanameMadoka520/WineFox-Daily">酒狐日常</a> —— YSM 的酒狐人设</li>
+        <li><a href="https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI">NekoAI 插件</a> —— 多模型 / xAI 搜索 / 生图</li>
         <li><a href="https://github.com/KanameMadoka520/NekoAI-GUI-Manager">NekoAI 配套 GUI 管理器</a></li>
       </ul>
     </td>
