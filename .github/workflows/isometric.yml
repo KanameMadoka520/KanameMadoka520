@@ -8,11 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: 
+    permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
+
       # 👇 新增：这一步至关重要！先建好房，才能住人
       - name: Create dist directory
         run: mkdir -p dist
@@ -26,7 +26,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           user: KanameMadoka520
-          
+          # 👇 新增：把等距日历的 5 个绿色改成蓝白色系
+          extras_css: |
+            [fill="#ebedf0"]{fill:#e8f2fa !important}
+            [fill="#9be9a8"]{fill:#bfe1f2 !important}
+            [fill="#40c463"]{fill:#7ec5e8 !important}
+            [fill="#30a14e"]{fill:#4a9fd4 !important}
+            [fill="#216e39"]{fill:#2f6f96 !important}
+
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
