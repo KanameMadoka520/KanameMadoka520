@@ -58,7 +58,7 @@
         <li><a href="https://github.com/KanameMadoka520/Misskey-X">Misskey-X</a> —— 个人 MC 小社区版</li>
         <li><a href="https://github.com/KanameMadoka520/Wallos-Remastered">Wallos-Remastered</a> —— 更多功能 / 更优雅动画</li>
         <li><a href="https://github.com/KanameMadoka520/uptime-kuma-remastered">Uptime-Kuma 魔改版</a> —— 人性化增强</li>
-        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared</a> —— Cloudflare Tunnel 支持</li>
+        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared</a> —— Cloudflare Tunnel支持面板，现官方PR已合，此版本仅留存自用</li>
       </ul>
     </td>
     <td width="50%" valign="top">
