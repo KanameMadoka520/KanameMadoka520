@@ -10,12 +10,12 @@
     </td>
     <td width="54%" valign="middle" align="center">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=26&pause=1200&color=4A9FD4&center=true&vCenter=true&width=460&height=55&lines=%E2%9C%A6%20%E6%A2%A6%E5%A2%83%E5%BD%92%E6%9D%A5%E4%B9%8B%E4%BA%BA%20%E2%9C%A6;Owner%20of%20TCYMC%20Server;Warrior%20of%20Light%20%28Eorzea%29;Hardware%20Enthusiast;Bringing%20the%20Future%20to%20Reality;Rewriting%20the%20Timeline..." alt="梦境归来之人" />
+        <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=26&pause=1200&color=4A9FD4&center=true&vCenter=true&width=460&height=55&lines=%E2%9C%A6%20Dreamer%20Returned%20%E2%9C%A6;Owner%20of%20TCYMC%20Server;Warrior%20of%20Light%20%28Eorzea%29;Hardware%20Enthusiast;Bringing%20the%20Future%20to%20Reality;Rewriting%20the%20Timeline..." alt="Dreamer Returned" />
       </a>
       <br/><br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=99999&color=4A9FD4&center=true&vCenter=true&repeat=false&width=440&height=32&lines=Reality.load%28%20Dreams.getIdeas%28%29%20%29%3B" alt="Reality.load( Dreams.getIdeas() );" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=17&pause=99999&color=5C7080&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=80&lines=%E8%AF%95%E5%9B%BE%E5%B0%86%E6%A2%A6%E5%A2%83%E9%87%8C%E8%8B%8F%E9%86%92%E7%9A%84%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3%EF%BC%8C%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%B7%AC%E7%82%BC%E4%B8%BA%E7%8E%B0%E5%AE%9E%E7%9A%84%E9%94%9A%E7%82%B9%E3%80%82;%E4%BA%88%E4%B8%96%E7%95%8C%E4%BB%A5%E6%96%B0%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%82" alt="试图将梦境里苏醒的奇思妙想，一步步淬炼为现实的锚点。予世界以新的色彩。" />
+      <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=17&pause=99999&color=5C7080&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=80&lines=Attempting%20to%20refine%20the%20bright%20ideas%20awakened%20from%20dreams%20into%20anchors%20of%20reality%20step%20by%20step.;Giving%20the%20world%20a%20new%20shade%20of%20color." alt="Attempting to refine the bright ideas awakened from dreams into anchors of reality step by step. Giving the world a new shade of color." />
     </td>
   </tr>
 </table>
@@ -49,33 +49,33 @@
 <table align="center" width="760" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" valign="top">
-      <b>🌊 最近新开的开源项目</b>
+      <b>🌊 Recently Launched Open Source Projects</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/OpenWire">OpenWire</a> —— 开源免费的网络监测与防火墙，UI 借鉴 GlassWire</li>
+        <li><a href="https://github.com/KanameMadoka520/OpenWire">OpenWire</a> —— Open-source free network monitor & firewall, UI inspired by GlassWire</li>
       </ul>
-      <b>🔧 魔改自知名开源项目的独立分支</b>
+      <b>🔧 Custom Forks of Well-Known Open Source Projects</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/Misskey-X">Misskey-X</a> —— 个人 MC 小社区版</li>
-        <li><a href="https://github.com/KanameMadoka520/Wallos-Remastered">Wallos-Remastered</a> —— 更多功能 / 更优雅动画</li>
-        <li><a href="https://github.com/KanameMadoka520/uptime-kuma-remastered">Uptime-Kuma 魔改版</a> —— 人性化增强</li>
-        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared</a> —— Cloudflare Tunnel支持面板，现官方PR已合，此版本仅留存自用</li>
+        <li><a href="https://github.com/KanameMadoka520/Misskey-X">Misskey-X</a> —— Personal MC community edition</li>
+        <li><a href="https://github.com/KanameMadoka520/Wallos-Remastered">Wallos-Remastered</a> —— More features / sleeker animations</li>
+        <li><a href="https://github.com/KanameMadoka520/uptime-kuma-remastered">Uptime-Kuma Remastered</a> —— User-friendly enhancement</li>
+        <li><a href="https://github.com/KanameMadoka520/komari-cloudflared">Komari-Cloudflared</a> —— Cloudflare Tunnel support panel, official PR merged, retained for personal use only</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <b>🌙 暂无开源计划但在进展的神秘项目</b>
+      <b>🌙 Secret Projects in Progress (No Open Source Plans Yet)</b>
       <ul>
-        <li>bulai　·　matgo　·　yurri　·　JusticeAI</li>
+        <li>bulai · matgo · yurri · JusticeAI</li>
       </ul>
-      <b>⛏️ Minecraft 服务器相关</b>
+      <b>⛏️ Minecraft Server Related</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/TCY-Client-Updater">TCY-Client-Updater</a> —— 一键客户端更新器</li>
-        <li><a href="https://github.com/KanameMadoka520/TCYPublishManager">TCYPublishManager</a> —— 版本更新流程工具（开发中）</li>
+        <li><a href="https://github.com/KanameMadoka520/TCY-Client-Updater">TCY-Client-Updater</a> —— One-click client updater</li>
+        <li><a href="https://github.com/KanameMadoka520/TCYPublishManager">TCYPublishManager</a> —— Version release workflow tool (under development)</li>
       </ul>
-      <b>🤖 Koishi QQ 机器人用插件</b>
+      <b>🤖 Koishi QQ Bot Plugins</b>
       <ul>
-        <li><a href="https://github.com/KanameMadoka520/WineFox-Daily">酒狐日常</a> —— YSM 的酒狐人设</li>
-        <li><a href="https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI">NekoAI 插件</a> —— 多模型 / xAI 搜索 / 生图</li>
-        <li><a href="https://github.com/KanameMadoka520/NekoAI-GUI-Manager">NekoAI 配套 GUI 管理器</a></li>
+        <li><a href="https://github.com/KanameMadoka520/WineFox-Daily">WineFox Daily</a> —— YSM's WineFox persona</li>
+        <li><a href="https://github.com/KanameMadoka520/koishi-plugin-Enhanced-NekoAI">NekoAI Plugin</a> —— Multi-model / xAI search / image generation</li>
+        <li><a href="https://github.com/KanameMadoka520/NekoAI-GUI-Manager">NekoAI GUI Manager</a></li>
       </ul>
     </td>
   </tr>
